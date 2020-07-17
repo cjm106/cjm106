@@ -3,9 +3,9 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/~colinmuir/">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" hspace="15" height="42" width="42"></a>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" hspace="5" height="42" width="42"></a>
 <a href="https://www.codewars.com/users/cjm106">
-<img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars" hspace="15" height="42" width="42"></a></p>
+<img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars" hspace="5" height="42" width="42"></a></p>
 
 <div align="center">
 
