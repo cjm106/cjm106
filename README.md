@@ -6,7 +6,9 @@
 <a href="https://www.linkedin.com/in/~colinmuir/">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" hspace="10" height="42" width="42"></a>
 <a href="https://www.codewars.com/users/cjm106">
-<img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars" hspace="10" height="42" width="42"></a></p>
+<img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars" hspace="10" height="42" width="42"></a>
+<a href="https://trailblazer.me/id/cjmuir">
+<img src="https://developer.salesforce.com/resources2/be_a_multiplier/trailhead-logo.png" alt="salesforce" hspace="10" height="42" width="42"></a></p>
 
 <div align="center">
 
@@ -119,79 +121,3 @@ Sound Engineer responsible for the balance and editing of live and pre-recorded 
 * Maker: 3d Printing, Raspberry Pi, Arduino.
 * Baker: Hoping to perfect the perfect lockdown sourdough starter.
 * Gamer: Super Mario, Mario Kart, Zelda: Breath of the Wild, Half-Life.
-
-- Team Management
-- Streaming Media
-- Broadcast
-
-
-## Tech Stack
-
-- Ruby (Rails, Active Record, Sinatra, RSpec, Capybara)
-- JavaScript (React, Node.js, jQuery, Jest, Jasmine)
-- SQL (PSQL, SQLite)
-- HTML, CSS
-- Travis CI
-- Heroku, Surge, Netlify
-- Git, GitHub, GitLab, Bitbucket
-- Jira, Confluence, Trello
-
-
-## Education
-
-#### Makers Academy (April 2020 to July 2020)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### York University (October 1995 to June 1998)
-
-BA(Hons) Music Technology
-- Combined Music and Electronics:
-- Analogue and Digital Electronics, Microcomputer Architecture,
-- Engineering Mathematics, Computer Music,
-- Acoustics & Electro-acoustic Composition.
-
-## Experience
-
-**BBC News** (November 2014 to November 2019) -
-*SJ Mobile Journalism* </br></br>
-Senior Broadcast Journalist responsible for the delivery and development of the BBC’s internal live mobile journalism tools and workflows as well as the wider management of the Mobile Journalism and Innovation team:
-- Internal Mobile Application Development
-- Development of BBC News' Social Media Live workflows and contract/platform partnerships.
-- The UK's 1st 5G outside broadcast.
-
-</br>**BBC Scotland** (October 2013 to November 2014) -
-*Newsgathering Technology Lead* </br></br>
-Subject matter expert responsible for the enablement of BBC Scotland's 2013/14 technology objectives during their move to HD News acquisition/outside broadcast and coverage of the 2014 Commonwealth Games and Scottish Referendum.
-- The Introduction of IP and cloud-based Video content delivery workflows.
-- The project management and delivery of opensource video encoding tools.
-
-</br>**BBC Design and Engineering** (June 2011 - October 2013) -
-*Technology Project Lead - BBC Edge Group* </br></br>
-Business analyst and project manager responsible for the implementation and development of technology strategy, innovation and proof of concept pilots for a group of senior BBC programme makers, journalists, engineers and technologists.
-- The adoption of web based delivery standards for live video contribution within the BBC.
-- The introduction and development of the mobile bonding Technology behind the Olympic Torch Relay.
-- The 1st person in the UK (World?) to broadcast live HD Video from a bicycle over the mobile phone networks.
-
-</br>**BBC Radio and Music** (January 2003 - June 2011) -
-*Assistant Senior Studio Manager* </br></br>
-Sound Engineer responsible for the balance and editing of live and pre-recorded programmes for BBC Radio 2,3,4 and World Service. Use of a number of digital systems including VCS, Sadie and Pro Tools.</br>
-
-**BBC World Service** (March 2001 - January 2003) -
-*Studio Manager*
-
-**BBC Broadcast** (June 2000 - March 2001) -
-*Presentation Operator*
-
-**Cable and Satellite Transmission LTD** (April 1999 - June 2000) -
-*Transmission Controller*
-
-## Interests
-
-* Maker: 3d Printing, Raspberry Pi, Arduino.
-* Baker: Hoping to perfect the perfect lockdown sourdough starter.
-* Gamer: Super Mario, Mario Kart, Zelda: Breath of the Wild, Half-Life.
-
