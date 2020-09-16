@@ -7,8 +7,6 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" hspace="10" height="42" width="42"></a>
 <a href="https://www.codewars.com/users/cjm106">
 <img src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars" hspace="10" height="42" width="42"></a>
-<a href="https://trailblazer.me/id/cjmuir">
-<img src="https://developer.salesforce.com/resources2/be_a_multiplier/trailhead-logo.png" alt="salesforce" hspace="10" height="42" width="42"></a></p>
 
 <div align="center">
 
