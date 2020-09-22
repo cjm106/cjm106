@@ -43,11 +43,11 @@ My passion is new technology: at work I'm the first to know about cutting edge w
 ## Tech Stack
 
 - Ruby (Rails, Active Record, Sinatra, RSpec, Capybara)
-- JavaScript (React, Node.js, jQuery, Jest, Jasmine)
+- JavaScript (React, Gatsby, TypeScript, Node.js, jQuery, Jest, Jasmine)
 - Python 3
 - SQL (PSQL, SQLite)
 - HTML, CSS
-- Travis CI
+- Travis CI, CircleCi
 - Heroku, Surge, Netlify
 - Git, GitHub, GitLab, Bitbucket
 - Jira, Confluence, Trello
